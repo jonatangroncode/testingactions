@@ -1,4 +1,4 @@
-name: Discord
+name: Discordtest
 on: push 
 
 jobs: 
