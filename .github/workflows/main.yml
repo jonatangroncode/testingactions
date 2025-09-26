@@ -8,7 +8,7 @@ jobs:
     - name: discord
       uses: sebastianpopp/discord-action@releases/v2
       with: 
-        webhook: ${{ secrets.DISCORD_WEBHOOK }}
+        webhook: ${{ secrets.MYDISCORD_SECRETY }}
         message: jonatan2 has tested the connetction. 
     
   
