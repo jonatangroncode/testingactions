@@ -9,6 +9,6 @@ jobs:
       uses: sebastianpopp/discord-action@releases/v2
       with: 
         webhook: ${{ secrets.DISCORD_WEBHOOK }}
-        message: Jonatan has tested the connetction. 
+        message: jonatan2 has tested the connetction. 
     
   
